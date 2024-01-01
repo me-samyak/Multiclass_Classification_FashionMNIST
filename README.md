@@ -1,2 +1,2 @@
-ModelV1 uses a simple neural network to classify images fron FashionMNIST dataset into 10 classes.
-ModelV2 is implemenation of TinyVGG architecture using Convulational Neural Networks present on the CNN explainer website- https://poloclub.github.io/cnn-explainer/
+ModelV1: Simple neural network for classifying FashionMNIST images into 10 classes.
+ModelV2: Implementation of TinyVGG using CNNs from CNN explainer (https://poloclub.github.io/cnn-explainer/).
